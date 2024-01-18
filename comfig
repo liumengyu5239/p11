@@ -1,6 +1,0 @@
-1.Host github.com
-2.User liumengyu5239
-3.Hostname ssh.github.com
-4.PreferredAuthentications publickey
-5.IdentityFile ~/.ssh/id_rsa
-6.Port 443
